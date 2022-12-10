@@ -25,7 +25,7 @@ Both students and school administration should be able to enter volunteer hours 
 
 Known agencies are linked by their private email domain. If they use a public email domain, they are only linked by the full email address.
 
-School systems will be able to use this app at no cost for their first 50 students. Once they reach student 51, they will have to pay $1 per student per year to use the platform.
+School systems will be able to use this app at no cost for their first 50 students. Once they reach student 51, they will have to pay $2 per student per year to use the platform.
 There are 15.1 million high school students in the US in 2022.
 
 This solution will need to:
